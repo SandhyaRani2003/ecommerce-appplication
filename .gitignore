@@ -1,0 +1,24 @@
+# Maven
+/target/
+.mvn/wrapper/dist/
+.mvn/wrapper/*.zip
+
+# IDE
+/.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Local overrides
+application-local.properties
+
